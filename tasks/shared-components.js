@@ -1,3 +1,4 @@
+/* Shared Components Script - this comment added for dummy commit */
 const fs = require("fs");
 const path = require("path");
 const dutil = require("./utils/doc-util");
